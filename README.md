@@ -1,20 +1,20 @@
 # Enlarge
 
-Enlarge是一个在PC网页端操作手机端数据的工具，目的打造一个开源的可定制化的PC与手机之间数据通信的系统，让你可以轻松就可以拥有AirDroid般的强大功能！
+Enlarge is a tool for operating mobile phone data on the PC web page. It aims to create an open source and customizable data communication system between PC and mobile phone, so that you can easily have the powerful functions of AirDroid!
 
 ![avatar](https://github.com/Cmdmac/Enlarge/blob/master/Enlarge-Web.jpeg)
 
 ### [Enlarge-Android][1]
 
-手机app端，提供http/websocket服务，扫二维码登录功能
+Mobile app, providing http/websocket services, QR code scanning login function
 
 ### [Enlarge-Web][2]
 
-浏览器操作手机的前端界面 
+Browser operation mobile phone front-end interface
 
 ### [Enlarge-Server][3]
 
-二维码登录服务
+QR code login service
 
 [1]:https://github.com/Cmdmac/Enlarge-Android
 [2]:https://github.com/Cmdmac/Enlarge-Web
